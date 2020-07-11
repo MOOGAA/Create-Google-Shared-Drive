@@ -1,9 +1,9 @@
 var authConfig = {
   version: "1.0.1-fix1",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: '', // Google Client ID
-  client_secret: '', // Google Client Secret
-  refresh_token: '', // Refresh token
+  client_id: '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com', // Google Client ID
+  client_secret: 'ZNPZ-vS6N9Zjsyb_sNMZmXHL', // Google Client Secret
+  refresh_token: '1//0d42NZQKbbGnhCgYIARAAGA0SNgF-L9Irz1NXb1mhGJ57TpDM5IGMvl17JrHWZPoUWhBZrnx8WCTrc4CVcK2jpG50e_C0EHv3TQ', // Refresh token
   domain: "GTB", //College name to display
   black_list: ["example@gmail.com"]
 };
